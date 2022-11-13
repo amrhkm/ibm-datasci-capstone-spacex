@@ -10,7 +10,7 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 ![](https://github.com/amrhkm/ibm_capstone_spacex/tree/main/miscellaneous/successful_landing.gif)
 ### Successful landing
 
-![](https://github.com/amrhkm/ibm_capstone_spacex/tree/main/miscellaneous/failed_landing.gif)
+![](https://github.com/amrhkm/ibm_capstone_spacex/blob/main/miscellaneous/successful_landing.gif)
 ### Failed landing
 
 ## Problems
