@@ -3,7 +3,7 @@
 ## Introduction
 
 In this capstone, we will predict if the Falcon 9 first stage will land successfully. 
-SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, these savings are possible mainly due to the first stage of Falcon 9 can be reused. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information is valuable if a competing company wants to bid against SpaceX for a rocket launch. This capstone aims to analyze past SpaceX launches that utilized Falcon 9 rocket to derive a better understanding of the different attributes of the launches and their relationship with the success of Falcon 9’s first stage to land through exploratory data analysis (EDA) and predictive analysis to determine the outcome of the landing.
+SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each. These cost savings are made possible largely due to the first stage of Falcon 9 can be reused. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information is valuable if a competing company wants to bid against SpaceX for a rocket launch. This capstone aims to analyze past SpaceX launches that utilized Falcon 9 rocket to derive a better understanding of the different attributes of the launches and their relationship with the success of Falcon 9’s first stage to land through exploratory data analysis (EDA) and predictive analysis to determine the outcome of the landing.
 
 ## Example of Succesful and Failed Landing
 ### Successful landing
