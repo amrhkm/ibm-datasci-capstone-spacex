@@ -5,9 +5,9 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 
 ## Example of Succesful and Failed Landing
 ### Successful landing
-![](https://github.com/amrhkm/ibm_capstone_spacex/blob/main/miscellaneous/successful_landing.gif)
+![](https://github.com/amrhkm/ibm_capstone_spacex/blob/master/miscellaneous/successful_landing.gif)
 ### Failed landing
-![](https://github.com/amrhkm/ibm_capstone_spacex/blob/main/miscellaneous/failed_landing.gif)
+![](https://github.com/amrhkm/ibm_capstone_spacex/blob/master/miscellaneous/failed_landing.gif)
 
 ## Problems
 - How the interaction between the different features of the launch would impact the success rate of a landing.
