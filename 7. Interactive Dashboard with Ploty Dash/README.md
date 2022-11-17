@@ -1,4 +1,4 @@
 ## live website
-- This web-based dashboard that is hosted on [Heroku](https://medium.com/@ahossack07/deploy-plotly-dash-apps-to-heroku-in-under-a-minute-fastest-and-easiest-method-54eddb80438e) will only work until 28 Nov 2022 due to the used Heroku service will no longer be free.
+- This web-based dashboard that is hosted on [Heroku](https://medium.com/@ahossack07/deploy-plotly-dash-apps-to-heroku-in-under-a-minute-fastest-and-easiest-method-54eddb80438e) will only work until 28 Nov 2022 because the Heroku no longer be a free paltform.
 
 [DASHBOARD HOSTED ON HEROKU](https://spacexdb-amir.herokuapp.com/)
