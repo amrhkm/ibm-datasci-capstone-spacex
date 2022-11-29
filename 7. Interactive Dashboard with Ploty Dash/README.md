@@ -3,4 +3,4 @@
 
 [DASHBOARD HOSTED ON HEROKU](https://spacexdb-amir.herokuapp.com/)
 
-- Due to heroku is no longer a free platform, an alternative to heroku is [render.com](https://render.com/) and the live website for this analysis is [DASHBOARD HOSTER ON RENDER.COM](https://amirhakim-spacex-analysis.onrender.com/)
+- Due to heroku is no longer a free platform, an alternative to heroku is [render.com](https://render.com/) and the live website for this analysis is [DASHBOARD HOSTED ON RENDER.COM](https://amirhakim-spacex-analysis.onrender.com/)
