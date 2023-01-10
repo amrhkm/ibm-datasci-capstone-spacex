@@ -13,5 +13,4 @@ SpaceX revolutionized the spaceflight industry by making affordable spacelight a
 - How the interaction between the different features of the launch would impact the success rate of a landing.
 - What are the best-operating conditions that SpaceX has to achieve to ensure a successful landing?
 
-## Disclaimer
-This repo is my work to complete the capstone project for IBM Data Science Professional Certificate and its purpose is solely for education.
+
